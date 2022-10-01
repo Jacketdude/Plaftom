@@ -8,3 +8,6 @@ A game I made in lua using the love framework
 
 # Dedications:
 • No one
+
+# Other Stuff
+• ...
